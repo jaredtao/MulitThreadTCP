@@ -4,7 +4,7 @@
 #include <QThread>
 #include <QTcpServer>
 #include <QTcpSocket>
-
+#include <memory>
 class TcpWorker : public QObject
 {
     Q_OBJECT
