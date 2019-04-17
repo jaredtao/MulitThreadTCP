@@ -21,7 +21,7 @@ MulitTCPClient
 
 [lin-badge]: https://travis-ci.org/wentaojia2014/MulitThreadTCP.svg?branch=master "Travis build status"
 [lin-link]: https://travis-ci.org/wentaojia2014/MulitThreadTCP "Travis build status"
-[win-badge]: https://ci.appveyor.com/api/projects/status/yykx4xufxtrax1hi?svg=true "AppVeyor build status"
+[win-badge]: https://ci.appveyor.com/api/projects/status/wrj7bnxx1gn84478?svg=true "AppVeyor build status"
 [win-link]: https://ci.appveyor.com/project/jiawentao/MulitThreadTCP "AppVeyor build status"
 
 ## License
