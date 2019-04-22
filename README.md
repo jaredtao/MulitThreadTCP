@@ -1,4 +1,18 @@
-﻿# 多线程TCP的例子
+# 多线程TCP的例子
+
+## Build status
+| [Linux][lin-link] | [Windows][win-link] |
+| :---------------: | :-----------------: |
+| ![lin-badge]      | ![win-badge]        |
+
+[lin-badge]: https://travis-ci.org/wentaojia2014/MulitThreadTCP.svg?branch=master "Travis build status"
+[lin-link]: https://travis-ci.org/wentaojia2014/MulitThreadTCP "Travis build status"
+[win-badge]: https://ci.appveyor.com/api/projects/status/wrj7bnxx1gn84478?svg=true "AppVeyor build status"
+[win-link]: https://ci.appveyor.com/project/jiawentao/MulitThreadTCP "AppVeyor build status"
+
+## License
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/wentaojia2014/TableEdit/blob/master/LICENSE)
+
 
 ## 目录结构
 
@@ -13,21 +27,6 @@
 ## 预览图
 
 ![](preview.png)
-
-
-
-## Build status
-| [Linux][lin-link] | [Windows][win-link] |
-| :---------------: | :-----------------: |
-| ![lin-badge]      | ![win-badge]        |
-
-[lin-badge]: https://travis-ci.org/wentaojia2014/MulitThreadTCP.svg?branch=master "Travis build status"
-[lin-link]: https://travis-ci.org/wentaojia2014/MulitThreadTCP "Travis build status"
-[win-badge]: https://ci.appveyor.com/api/projects/status/wrj7bnxx1gn84478?svg=true "AppVeyor build status"
-[win-link]: https://ci.appveyor.com/project/jiawentao/MulitThreadTCP "AppVeyor build status"
-
-## License
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/wentaojia2014/TableEdit/blob/master/LICENSE)
 
 ## 开发环境
 
