@@ -5,13 +5,13 @@
 | :---------------: | :-----------------: |
 | ![lin-badge]      | ![win-badge]        |
 
-[lin-badge]: https://travis-ci.org/wentaojia2014/MulitThreadTCP.svg?branch=master "Travis build status"
-[lin-link]: https://travis-ci.org/wentaojia2014/MulitThreadTCP "Travis build status"
+[lin-badge]: https://travis-ci.org/jaredtao/MulitThreadTCP.svg?branch=master "Travis build status"
+[lin-link]: https://travis-ci.org/jaredtao/MulitThreadTCP "Travis build status"
 [win-badge]: https://ci.appveyor.com/api/projects/status/wrj7bnxx1gn84478?svg=true "AppVeyor build status"
 [win-link]: https://ci.appveyor.com/project/jiawentao/MulitThreadTCP "AppVeyor build status"
 
 ## License
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/wentaojia2014/TableEdit/blob/master/LICENSE)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/jaredtao/TableEdit/blob/master/LICENSE)
 
 
 ## 目录结构
@@ -41,20 +41,20 @@
 | QQ、TIM   | 759378563                      |
 | 微信 | xsd2410421                       |
 | 邮箱 | jared2020@163.com                |
-| blog | https://wentaojia2014.github.io/ |
+| blog | https://jaredtao.github.io/ |
 
 ***
 
 QQ(TIM)、微信二维码
 
-<img src="https://github.com/wentaojia2014/wentaojia2014.github.io/blob/master/img/qq_connect.jpg?raw=true" width="30%" height="30%" /><img src="https://github.com/wentaojia2014/wentaojia2014.github.io/blob/master/img/weixin_connect.jpg?raw=true" width="30%" height="30%" />
+<img src="https://github.com/jaredtao/jaredtao.github.io/blob/master/img/qq_connect.jpg?raw=true" width="30%" height="30%" /><img src="https://github.com/jaredtao/jaredtao.github.io/blob/master/img/weixin_connect.jpg?raw=true" width="30%" height="30%" />
 
 
 ###### 请放心联系我，乐于提供咨询服务，也可洽谈有偿技术支持相关事宜。
 
 ***
 #### **打赏**
-<img src="https://github.com/wentaojia2014/wentaojia2014.github.io/blob/master/img/weixin.jpg?raw=true" width="30%" height="30%" /><img src="https://github.com/wentaojia2014/wentaojia2014.github.io/blob/master/img/zhifubao.jpg?raw=true" width="30%" height="30%" />
+<img src="https://github.com/jaredtao/jaredtao.github.io/blob/master/img/weixin.jpg?raw=true" width="30%" height="30%" /><img src="https://github.com/jaredtao/jaredtao.github.io/blob/master/img/zhifubao.jpg?raw=true" width="30%" height="30%" />
 
 ###### 觉得分享的内容还不错, 就请作者喝杯奶茶吧~~
 ***
